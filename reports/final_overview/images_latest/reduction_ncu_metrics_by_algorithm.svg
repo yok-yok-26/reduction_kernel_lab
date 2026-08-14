@@ -1,0 +1,278 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="2774" viewBox="0 0 1250 2774">
+<style>text{font-family:DejaVu Sans,Arial,sans-serif}.title{font-size:24px;font-weight:bold}.small{font-size:12px}.group{font-size:14px;font-weight:bold}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="36" class="title">Combined NCU Metrics by Algorithm (n=16777216)</text>
+<text x="1058" y="62" class="group">Normalized value</text>
+<text x="24" y="96" class="group">library_cub_device_reduce</text>
+<text x="54" y="118" class="small">[1] Duration us total</text>
+<rect x="360" y="104" width="3.12" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="118" class="small">0.00</text>
+<text x="54" y="146" class="small">[2] Memory throughput %</text>
+<rect x="360" y="132" width="680.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="146" class="small">1.00</text>
+<text x="54" y="174" class="small">[3] DRAM throughput %</text>
+<rect x="360" y="160" width="680.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="174" class="small">1.00</text>
+<text x="54" y="202" class="small">[4] SM throughput %</text>
+<rect x="360" y="188" width="57.90" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="202" class="small">0.09</text>
+<text x="54" y="230" class="small">[5] Achieved occupancy %</text>
+<rect x="360" y="216" width="680.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="230" class="small">1.00</text>
+<text x="54" y="258" class="small">[6] Eligible warps/sched</text>
+<rect x="360" y="244" width="85.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="258" class="small">0.12</text>
+<text x="54" y="286" class="small">[7] Warp cycles/issued inst</text>
+<rect x="360" y="272" width="19.30" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="286" class="small">0.03</text>
+<text x="54" y="314" class="small">[8] Registers/thread</text>
+<rect x="360" y="300" width="680.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="314" class="small">1.00</text>
+<text x="54" y="342" class="small">[9] Static smem bytes</text>
+<rect x="360" y="328" width="233.75" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="342" class="small">0.34</text>
+<text x="54" y="370" class="small">[10] Dynamic smem bytes</text>
+<rect x="360" y="356" width="0.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="370" class="small">0.00</text>
+<text x="54" y="398" class="small">[11] Memory GB/s</text>
+<rect x="360" y="384" width="680.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="398" class="small">1.00</text>
+<text x="24" y="424" class="group">custom_cuda_atomic</text>
+<text x="54" y="446" class="small">[1] Duration us total</text>
+<rect x="360" y="432" width="680.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="446" class="small">1.00</text>
+<text x="54" y="474" class="small">[2] Memory throughput %</text>
+<rect x="360" y="460" width="14.47" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="474" class="small">0.02</text>
+<text x="54" y="502" class="small">[3] DRAM throughput %</text>
+<rect x="360" y="488" width="3.12" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="502" class="small">0.00</text>
+<text x="54" y="530" class="small">[4] SM throughput %</text>
+<rect x="360" y="516" width="9.40" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="530" class="small">0.01</text>
+<text x="54" y="558" class="small">[5] Achieved occupancy %</text>
+<rect x="360" y="544" width="563.71" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="558" class="small">0.83</text>
+<text x="54" y="586" class="small">[6] Eligible warps/sched</text>
+<rect x="360" y="572" width="0.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="586" class="small">0.00</text>
+<text x="54" y="614" class="small">[7] Warp cycles/issued inst</text>
+<rect x="360" y="600" width="680.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="614" class="small">1.00</text>
+<text x="54" y="642" class="small">[8] Registers/thread</text>
+<rect x="360" y="628" width="340.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="642" class="small">0.50</text>
+<text x="54" y="670" class="small">[9] Static smem bytes</text>
+<rect x="360" y="656" width="0.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="670" class="small">0.00</text>
+<text x="54" y="698" class="small">[10] Dynamic smem bytes</text>
+<rect x="360" y="684" width="0.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="698" class="small">0.00</text>
+<text x="54" y="726" class="small">[11] Memory GB/s</text>
+<rect x="360" y="712" width="3.11" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="726" class="small">0.00</text>
+<text x="24" y="752" class="group">optimized_todo</text>
+<text x="54" y="774" class="small">[1] Duration us total</text>
+<rect x="360" y="760" width="5.26" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="774" class="small">0.01</text>
+<text x="54" y="802" class="small">[2] Memory throughput %</text>
+<rect x="360" y="788" width="394.57" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="802" class="small">0.58</text>
+<text x="54" y="830" class="small">[3] DRAM throughput %</text>
+<rect x="360" y="816" width="394.57" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="830" class="small">0.58</text>
+<text x="54" y="858" class="small">[4] SM throughput %</text>
+<rect x="360" y="844" width="680.00" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="858" class="small">1.00</text>
+<text x="54" y="886" class="small">[5] Achieved occupancy %</text>
+<rect x="360" y="872" width="506.67" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="886" class="small">0.75</text>
+<text x="54" y="914" class="small">[6] Eligible warps/sched</text>
+<rect x="360" y="900" width="680.00" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="914" class="small">1.00</text>
+<text x="54" y="942" class="small">[7] Warp cycles/issued inst</text>
+<rect x="360" y="928" width="1.81" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="942" class="small">0.00</text>
+<text x="54" y="970" class="small">[8] Registers/thread</text>
+<rect x="360" y="956" width="361.25" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="970" class="small">0.53</text>
+<text x="54" y="998" class="small">[9] Static smem bytes</text>
+<rect x="360" y="984" width="680.00" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="998" class="small">1.00</text>
+<text x="54" y="1026" class="small">[10] Dynamic smem bytes</text>
+<rect x="360" y="1012" width="0.00" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="1026" class="small">0.00</text>
+<text x="54" y="1054" class="small">[11] Memory GB/s</text>
+<rect x="360" y="1040" width="394.71" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="1054" class="small">0.58</text>
+<text x="24" y="1080" class="group">optimized_tile2</text>
+<text x="54" y="1102" class="small">[1] Duration us total</text>
+<rect x="360" y="1088" width="3.94" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1102" class="small">0.01</text>
+<text x="54" y="1130" class="small">[2] Memory throughput %</text>
+<rect x="360" y="1116" width="527.46" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1130" class="small">0.78</text>
+<text x="54" y="1158" class="small">[3] DRAM throughput %</text>
+<rect x="360" y="1144" width="527.46" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1158" class="small">0.78</text>
+<text x="54" y="1186" class="small">[4] SM throughput %</text>
+<rect x="360" y="1172" width="517.96" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1186" class="small">0.76</text>
+<text x="54" y="1214" class="small">[5] Achieved occupancy %</text>
+<rect x="360" y="1200" width="572.08" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1214" class="small">0.84</text>
+<text x="54" y="1242" class="small">[6] Eligible warps/sched</text>
+<rect x="360" y="1228" width="637.50" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1242" class="small">0.94</text>
+<text x="54" y="1270" class="small">[7] Warp cycles/issued inst</text>
+<rect x="360" y="1256" width="2.18" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1270" class="small">0.00</text>
+<text x="54" y="1298" class="small">[8] Registers/thread</text>
+<rect x="360" y="1284" width="340.00" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1298" class="small">0.50</text>
+<text x="54" y="1326" class="small">[9] Static smem bytes</text>
+<rect x="360" y="1312" width="680.00" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1326" class="small">1.00</text>
+<text x="54" y="1354" class="small">[10] Dynamic smem bytes</text>
+<rect x="360" y="1340" width="0.00" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1354" class="small">0.00</text>
+<text x="54" y="1382" class="small">[11] Memory GB/s</text>
+<rect x="360" y="1368" width="527.60" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1382" class="small">0.78</text>
+<text x="24" y="1408" class="group">optimized_tile4</text>
+<text x="54" y="1430" class="small">[1] Duration us total</text>
+<rect x="360" y="1416" width="3.49" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1430" class="small">0.01</text>
+<text x="54" y="1458" class="small">[2] Memory throughput %</text>
+<rect x="360" y="1444" width="596.25" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1458" class="small">0.88</text>
+<text x="54" y="1486" class="small">[3] DRAM throughput %</text>
+<rect x="360" y="1472" width="596.25" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1486" class="small">0.88</text>
+<text x="54" y="1514" class="small">[4] SM throughput %</text>
+<rect x="360" y="1500" width="354.25" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1514" class="small">0.52</text>
+<text x="54" y="1542" class="small">[5] Achieved occupancy %</text>
+<rect x="360" y="1528" width="628.91" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1542" class="small">0.92</text>
+<text x="54" y="1570" class="small">[6] Eligible warps/sched</text>
+<rect x="360" y="1556" width="425.00" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1570" class="small">0.62</text>
+<text x="54" y="1598" class="small">[7] Warp cycles/issued inst</text>
+<rect x="360" y="1584" width="3.31" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1598" class="small">0.00</text>
+<text x="54" y="1626" class="small">[8] Registers/thread</text>
+<rect x="360" y="1612" width="340.00" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1626" class="small">0.50</text>
+<text x="54" y="1654" class="small">[9] Static smem bytes</text>
+<rect x="360" y="1640" width="680.00" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1654" class="small">1.00</text>
+<text x="54" y="1682" class="small">[10] Dynamic smem bytes</text>
+<rect x="360" y="1668" width="0.00" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1682" class="small">0.00</text>
+<text x="54" y="1710" class="small">[11] Memory GB/s</text>
+<rect x="360" y="1696" width="596.53" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1710" class="small">0.88</text>
+<text x="24" y="1736" class="group">optimized_tile8</text>
+<text x="54" y="1758" class="small">[1] Duration us total</text>
+<rect x="360" y="1744" width="3.40" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1758" class="small">0.00</text>
+<text x="54" y="1786" class="small">[2] Memory throughput %</text>
+<rect x="360" y="1772" width="620.36" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1786" class="small">0.91</text>
+<text x="54" y="1814" class="small">[3] DRAM throughput %</text>
+<rect x="360" y="1800" width="620.36" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1814" class="small">0.91</text>
+<text x="54" y="1842" class="small">[4] SM throughput %</text>
+<rect x="360" y="1828" width="249.66" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1842" class="small">0.37</text>
+<text x="54" y="1870" class="small">[5] Achieved occupancy %</text>
+<rect x="360" y="1856" width="661.22" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1870" class="small">0.97</text>
+<text x="54" y="1898" class="small">[6] Eligible warps/sched</text>
+<rect x="360" y="1884" width="297.50" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1898" class="small">0.44</text>
+<text x="54" y="1926" class="small">[7] Warp cycles/issued inst</text>
+<rect x="360" y="1912" width="4.88" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1926" class="small">0.01</text>
+<text x="54" y="1954" class="small">[8] Registers/thread</text>
+<rect x="360" y="1940" width="340.00" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1954" class="small">0.50</text>
+<text x="54" y="1982" class="small">[9] Static smem bytes</text>
+<rect x="360" y="1968" width="680.00" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1982" class="small">1.00</text>
+<text x="54" y="2010" class="small">[10] Dynamic smem bytes</text>
+<rect x="360" y="1996" width="0.00" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="2010" class="small">0.00</text>
+<text x="54" y="2038" class="small">[11] Memory GB/s</text>
+<rect x="360" y="2024" width="620.60" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="2038" class="small">0.91</text>
+<text x="24" y="2064" class="group">optimized_2stage</text>
+<text x="54" y="2086" class="small">[1] Duration us total</text>
+<rect x="360" y="2072" width="6.93" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2086" class="small">0.01</text>
+<text x="54" y="2114" class="small">[2] Memory throughput %</text>
+<rect x="360" y="2100" width="379.96" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2114" class="small">0.56</text>
+<text x="54" y="2142" class="small">[3] DRAM throughput %</text>
+<rect x="360" y="2128" width="379.96" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2142" class="small">0.56</text>
+<text x="54" y="2170" class="small">[4] SM throughput %</text>
+<rect x="360" y="2156" width="669.24" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2170" class="small">0.98</text>
+<text x="54" y="2198" class="small">[5] Achieved occupancy %</text>
+<rect x="360" y="2184" width="507.31" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2198" class="small">0.75</text>
+<text x="54" y="2226" class="small">[6] Eligible warps/sched</text>
+<rect x="360" y="2212" width="658.75" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2226" class="small">0.97</text>
+<text x="54" y="2254" class="small">[7] Warp cycles/issued inst</text>
+<rect x="360" y="2240" width="1.91" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2254" class="small">0.00</text>
+<text x="54" y="2282" class="small">[8] Registers/thread</text>
+<rect x="360" y="2268" width="361.25" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2282" class="small">0.53</text>
+<text x="54" y="2310" class="small">[9] Static smem bytes</text>
+<rect x="360" y="2296" width="680.00" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2310" class="small">1.00</text>
+<text x="54" y="2338" class="small">[10] Dynamic smem bytes</text>
+<rect x="360" y="2324" width="0.00" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2338" class="small">0.00</text>
+<text x="54" y="2366" class="small">[11] Memory GB/s</text>
+<rect x="360" y="2352" width="380.12" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2366" class="small">0.56</text>
+<text x="24" y="2392" class="group">optimized_2stage_tile</text>
+<text x="54" y="2414" class="small">[1] Duration us total</text>
+<rect x="360" y="2400" width="3.44" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2414" class="small">0.01</text>
+<text x="54" y="2442" class="small">[2] Memory throughput %</text>
+<rect x="360" y="2428" width="623.48" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2442" class="small">0.92</text>
+<text x="54" y="2470" class="small">[3] DRAM throughput %</text>
+<rect x="360" y="2456" width="623.48" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2470" class="small">0.92</text>
+<text x="54" y="2498" class="small">[4] SM throughput %</text>
+<rect x="360" y="2484" width="247.69" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2498" class="small">0.36</text>
+<text x="54" y="2526" class="small">[5] Achieved occupancy %</text>
+<rect x="360" y="2512" width="648.68" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2526" class="small">0.95</text>
+<text x="54" y="2554" class="small">[6] Eligible warps/sched</text>
+<rect x="360" y="2540" width="297.50" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2554" class="small">0.44</text>
+<text x="54" y="2582" class="small">[7] Warp cycles/issued inst</text>
+<rect x="360" y="2568" width="4.83" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2582" class="small">0.01</text>
+<text x="54" y="2610" class="small">[8] Registers/thread</text>
+<rect x="360" y="2596" width="340.00" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2610" class="small">0.50</text>
+<text x="54" y="2638" class="small">[9] Static smem bytes</text>
+<rect x="360" y="2624" width="680.00" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2638" class="small">1.00</text>
+<text x="54" y="2666" class="small">[10] Dynamic smem bytes</text>
+<rect x="360" y="2652" width="0.00" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2666" class="small">0.00</text>
+<text x="54" y="2694" class="small">[11] Memory GB/s</text>
+<rect x="360" y="2680" width="623.66" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2694" class="small">0.92</text>
+</svg>

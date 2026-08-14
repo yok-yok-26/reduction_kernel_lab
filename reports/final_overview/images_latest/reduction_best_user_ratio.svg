@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+<style>text{font-family:DejaVu Sans,Arial,sans-serif}.title{font-size:24px;font-weight:bold}.small{font-size:13px}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="36" class="title">Best User Throughput Ratio (n=16777216)</text>
+<text x="24" y="117" class="small">best user / CUB</text>
+<rect x="190" y="100" width="466.83" height="28" fill="#ffbf00"/>
+<line x1="659.57" y1="85" x2="659.57" y2="145" stroke="black"/>
+<text x="664.57" y="82" class="small">1.0 baseline</text>
+<text x="664.83" y="119" class="small">0.994x</text>
+</svg>

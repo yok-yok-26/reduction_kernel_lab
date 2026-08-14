@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="260" viewBox="0 0 1220 260">
+<style>text{font-family:DejaVu Sans,Arial,sans-serif}.title{font-size:22px;font-weight:bold}.small{font-size:12px}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="32" class="title">Full-Series Throughput Heatmap, Row-Normalized</text>
+<text x="24" y="110" class="small">n=16777216</text>
+<rect x="80" y="80" width="132" height="55" fill="rgb(125,240,40)" stroke="red" stroke-width="3"/>
+<text x="88" y="104" class="small">607.7 GB/s</text>
+<text transform="translate(92,168) rotate(35)" class="small">library_cub_device_reduce</text>
+<rect x="215" y="80" width="132" height="55" fill="rgb(244,80,119)" stroke="#ddd" stroke-width="1"/>
+<text x="223" y="104" class="small">3.3 GB/s</text>
+<text transform="translate(227,168) rotate(35)" class="small">custom_cuda_atomic</text>
+<rect x="350" y="80" width="132" height="55" fill="rgb(161,190,64)" stroke="#ddd" stroke-width="1"/>
+<text x="358" y="104" class="small">420.4 GB/s</text>
+<text transform="translate(362,168) rotate(35)" class="small">optimized_todo</text>
+<rect x="485" y="80" width="132" height="55" fill="rgb(137,223,48)" stroke="#ddd" stroke-width="1"/>
+<text x="493" y="104" class="small">545.8 GB/s</text>
+<text transform="translate(497,168) rotate(35)" class="small">optimized_tile2</text>
+<rect x="620" y="80" width="132" height="55" fill="rgb(127,236,41)" stroke="#ddd" stroke-width="1"/>
+<text x="628" y="104" class="small">594.2 GB/s</text>
+<text transform="translate(632,168) rotate(35)" class="small">optimized_tile4</text>
+<rect x="755" y="80" width="132" height="55" fill="rgb(125,239,40)" stroke="#ddd" stroke-width="1"/>
+<text x="763" y="104" class="small">604.1 GB/s</text>
+<text transform="translate(767,168) rotate(35)" class="small">optimized_tile8</text>
+<rect x="890" y="80" width="132" height="55" fill="rgb(164,186,66)" stroke="#ddd" stroke-width="1"/>
+<text x="898" y="104" class="small">405.8 GB/s</text>
+<text transform="translate(902,168) rotate(35)" class="small">optimized_2stage</text>
+<rect x="1025" y="80" width="132" height="55" fill="rgb(132,230,44)" stroke="#ddd" stroke-width="1"/>
+<text x="1033" y="104" class="small">570.5 GB/s</text>
+<text transform="translate(1037,168) rotate(35)" class="small">optimized_2stage_tile</text>
+</svg>

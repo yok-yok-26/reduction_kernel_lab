@@ -1,0 +1,281 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="2834" viewBox="0 0 1250 2834">
+<style>text{font-family:DejaVu Sans,Arial,sans-serif}.title{font-size:24px;font-weight:bold}.small{font-size:12px}.group{font-size:14px;font-weight:bold}</style>
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="36" class="title">Combined NCU Metrics by Metric (n=16777216)</text>
+<text x="1058" y="62" class="group">Normalized value</text>
+<text x="24" y="96" class="group">[1] Duration us total</text>
+<text x="54" y="118" class="small">library_cub_device_reduce</text>
+<rect x="360" y="104" width="3.12" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="118" class="small">0.00</text>
+<text x="54" y="146" class="small">custom_cuda_atomic</text>
+<rect x="360" y="132" width="680.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="146" class="small">1.00</text>
+<text x="54" y="174" class="small">optimized_todo</text>
+<rect x="360" y="160" width="5.26" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="174" class="small">0.01</text>
+<text x="54" y="202" class="small">optimized_tile2</text>
+<rect x="360" y="188" width="3.94" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="202" class="small">0.01</text>
+<text x="54" y="230" class="small">optimized_tile4</text>
+<rect x="360" y="216" width="3.49" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="230" class="small">0.01</text>
+<text x="54" y="258" class="small">optimized_tile8</text>
+<rect x="360" y="244" width="3.40" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="258" class="small">0.00</text>
+<text x="54" y="286" class="small">optimized_2stage</text>
+<rect x="360" y="272" width="6.93" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="286" class="small">0.01</text>
+<text x="54" y="314" class="small">optimized_2stage_tile</text>
+<rect x="360" y="300" width="3.44" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="314" class="small">0.01</text>
+<text x="24" y="340" class="group">[2] Memory throughput %</text>
+<text x="54" y="362" class="small">library_cub_device_reduce</text>
+<rect x="360" y="348" width="680.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="362" class="small">1.00</text>
+<text x="54" y="390" class="small">custom_cuda_atomic</text>
+<rect x="360" y="376" width="14.47" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="390" class="small">0.02</text>
+<text x="54" y="418" class="small">optimized_todo</text>
+<rect x="360" y="404" width="394.57" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="418" class="small">0.58</text>
+<text x="54" y="446" class="small">optimized_tile2</text>
+<rect x="360" y="432" width="527.46" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="446" class="small">0.78</text>
+<text x="54" y="474" class="small">optimized_tile4</text>
+<rect x="360" y="460" width="596.25" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="474" class="small">0.88</text>
+<text x="54" y="502" class="small">optimized_tile8</text>
+<rect x="360" y="488" width="620.36" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="502" class="small">0.91</text>
+<text x="54" y="530" class="small">optimized_2stage</text>
+<rect x="360" y="516" width="379.96" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="530" class="small">0.56</text>
+<text x="54" y="558" class="small">optimized_2stage_tile</text>
+<rect x="360" y="544" width="623.48" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="558" class="small">0.92</text>
+<text x="24" y="584" class="group">[3] DRAM throughput %</text>
+<text x="54" y="606" class="small">library_cub_device_reduce</text>
+<rect x="360" y="592" width="680.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="606" class="small">1.00</text>
+<text x="54" y="634" class="small">custom_cuda_atomic</text>
+<rect x="360" y="620" width="3.12" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="634" class="small">0.00</text>
+<text x="54" y="662" class="small">optimized_todo</text>
+<rect x="360" y="648" width="394.57" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="662" class="small">0.58</text>
+<text x="54" y="690" class="small">optimized_tile2</text>
+<rect x="360" y="676" width="527.46" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="690" class="small">0.78</text>
+<text x="54" y="718" class="small">optimized_tile4</text>
+<rect x="360" y="704" width="596.25" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="718" class="small">0.88</text>
+<text x="54" y="746" class="small">optimized_tile8</text>
+<rect x="360" y="732" width="620.36" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="746" class="small">0.91</text>
+<text x="54" y="774" class="small">optimized_2stage</text>
+<rect x="360" y="760" width="379.96" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="774" class="small">0.56</text>
+<text x="54" y="802" class="small">optimized_2stage_tile</text>
+<rect x="360" y="788" width="623.48" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="802" class="small">0.92</text>
+<text x="24" y="828" class="group">[4] SM throughput %</text>
+<text x="54" y="850" class="small">library_cub_device_reduce</text>
+<rect x="360" y="836" width="57.90" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="850" class="small">0.09</text>
+<text x="54" y="878" class="small">custom_cuda_atomic</text>
+<rect x="360" y="864" width="9.40" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="878" class="small">0.01</text>
+<text x="54" y="906" class="small">optimized_todo</text>
+<rect x="360" y="892" width="680.00" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="906" class="small">1.00</text>
+<text x="54" y="934" class="small">optimized_tile2</text>
+<rect x="360" y="920" width="517.96" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="934" class="small">0.76</text>
+<text x="54" y="962" class="small">optimized_tile4</text>
+<rect x="360" y="948" width="354.25" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="962" class="small">0.52</text>
+<text x="54" y="990" class="small">optimized_tile8</text>
+<rect x="360" y="976" width="249.66" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="990" class="small">0.37</text>
+<text x="54" y="1018" class="small">optimized_2stage</text>
+<rect x="360" y="1004" width="669.24" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="1018" class="small">0.98</text>
+<text x="54" y="1046" class="small">optimized_2stage_tile</text>
+<rect x="360" y="1032" width="247.69" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="1046" class="small">0.36</text>
+<text x="24" y="1072" class="group">[5] Achieved occupancy %</text>
+<text x="54" y="1094" class="small">library_cub_device_reduce</text>
+<rect x="360" y="1080" width="680.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="1094" class="small">1.00</text>
+<text x="54" y="1122" class="small">custom_cuda_atomic</text>
+<rect x="360" y="1108" width="563.71" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="1122" class="small">0.83</text>
+<text x="54" y="1150" class="small">optimized_todo</text>
+<rect x="360" y="1136" width="506.67" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="1150" class="small">0.75</text>
+<text x="54" y="1178" class="small">optimized_tile2</text>
+<rect x="360" y="1164" width="572.08" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1178" class="small">0.84</text>
+<text x="54" y="1206" class="small">optimized_tile4</text>
+<rect x="360" y="1192" width="628.91" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1206" class="small">0.92</text>
+<text x="54" y="1234" class="small">optimized_tile8</text>
+<rect x="360" y="1220" width="661.22" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1234" class="small">0.97</text>
+<text x="54" y="1262" class="small">optimized_2stage</text>
+<rect x="360" y="1248" width="507.31" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="1262" class="small">0.75</text>
+<text x="54" y="1290" class="small">optimized_2stage_tile</text>
+<rect x="360" y="1276" width="648.68" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="1290" class="small">0.95</text>
+<text x="24" y="1316" class="group">[6] Eligible warps/sched</text>
+<text x="54" y="1338" class="small">library_cub_device_reduce</text>
+<rect x="360" y="1324" width="85.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="1338" class="small">0.12</text>
+<text x="54" y="1366" class="small">custom_cuda_atomic</text>
+<rect x="360" y="1352" width="0.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="1366" class="small">0.00</text>
+<text x="54" y="1394" class="small">optimized_todo</text>
+<rect x="360" y="1380" width="680.00" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="1394" class="small">1.00</text>
+<text x="54" y="1422" class="small">optimized_tile2</text>
+<rect x="360" y="1408" width="637.50" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1422" class="small">0.94</text>
+<text x="54" y="1450" class="small">optimized_tile4</text>
+<rect x="360" y="1436" width="425.00" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1450" class="small">0.62</text>
+<text x="54" y="1478" class="small">optimized_tile8</text>
+<rect x="360" y="1464" width="297.50" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1478" class="small">0.44</text>
+<text x="54" y="1506" class="small">optimized_2stage</text>
+<rect x="360" y="1492" width="658.75" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="1506" class="small">0.97</text>
+<text x="54" y="1534" class="small">optimized_2stage_tile</text>
+<rect x="360" y="1520" width="297.50" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="1534" class="small">0.44</text>
+<text x="24" y="1560" class="group">[7] Warp cycles/issued inst</text>
+<text x="54" y="1582" class="small">library_cub_device_reduce</text>
+<rect x="360" y="1568" width="19.30" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="1582" class="small">0.03</text>
+<text x="54" y="1610" class="small">custom_cuda_atomic</text>
+<rect x="360" y="1596" width="680.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="1610" class="small">1.00</text>
+<text x="54" y="1638" class="small">optimized_todo</text>
+<rect x="360" y="1624" width="1.81" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="1638" class="small">0.00</text>
+<text x="54" y="1666" class="small">optimized_tile2</text>
+<rect x="360" y="1652" width="2.18" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1666" class="small">0.00</text>
+<text x="54" y="1694" class="small">optimized_tile4</text>
+<rect x="360" y="1680" width="3.31" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1694" class="small">0.00</text>
+<text x="54" y="1722" class="small">optimized_tile8</text>
+<rect x="360" y="1708" width="4.88" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1722" class="small">0.01</text>
+<text x="54" y="1750" class="small">optimized_2stage</text>
+<rect x="360" y="1736" width="1.91" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="1750" class="small">0.00</text>
+<text x="54" y="1778" class="small">optimized_2stage_tile</text>
+<rect x="360" y="1764" width="4.83" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="1778" class="small">0.01</text>
+<text x="24" y="1804" class="group">[8] Registers/thread</text>
+<text x="54" y="1826" class="small">library_cub_device_reduce</text>
+<rect x="360" y="1812" width="680.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="1826" class="small">1.00</text>
+<text x="54" y="1854" class="small">custom_cuda_atomic</text>
+<rect x="360" y="1840" width="340.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="1854" class="small">0.50</text>
+<text x="54" y="1882" class="small">optimized_todo</text>
+<rect x="360" y="1868" width="361.25" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="1882" class="small">0.53</text>
+<text x="54" y="1910" class="small">optimized_tile2</text>
+<rect x="360" y="1896" width="340.00" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="1910" class="small">0.50</text>
+<text x="54" y="1938" class="small">optimized_tile4</text>
+<rect x="360" y="1924" width="340.00" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="1938" class="small">0.50</text>
+<text x="54" y="1966" class="small">optimized_tile8</text>
+<rect x="360" y="1952" width="340.00" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="1966" class="small">0.50</text>
+<text x="54" y="1994" class="small">optimized_2stage</text>
+<rect x="360" y="1980" width="361.25" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="1994" class="small">0.53</text>
+<text x="54" y="2022" class="small">optimized_2stage_tile</text>
+<rect x="360" y="2008" width="340.00" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2022" class="small">0.50</text>
+<text x="24" y="2048" class="group">[9] Static smem bytes</text>
+<text x="54" y="2070" class="small">library_cub_device_reduce</text>
+<rect x="360" y="2056" width="233.75" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="2070" class="small">0.34</text>
+<text x="54" y="2098" class="small">custom_cuda_atomic</text>
+<rect x="360" y="2084" width="0.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="2098" class="small">0.00</text>
+<text x="54" y="2126" class="small">optimized_todo</text>
+<rect x="360" y="2112" width="680.00" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="2126" class="small">1.00</text>
+<text x="54" y="2154" class="small">optimized_tile2</text>
+<rect x="360" y="2140" width="680.00" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="2154" class="small">1.00</text>
+<text x="54" y="2182" class="small">optimized_tile4</text>
+<rect x="360" y="2168" width="680.00" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="2182" class="small">1.00</text>
+<text x="54" y="2210" class="small">optimized_tile8</text>
+<rect x="360" y="2196" width="680.00" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="2210" class="small">1.00</text>
+<text x="54" y="2238" class="small">optimized_2stage</text>
+<rect x="360" y="2224" width="680.00" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2238" class="small">1.00</text>
+<text x="54" y="2266" class="small">optimized_2stage_tile</text>
+<rect x="360" y="2252" width="680.00" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2266" class="small">1.00</text>
+<text x="24" y="2292" class="group">[10] Dynamic smem bytes</text>
+<text x="54" y="2314" class="small">library_cub_device_reduce</text>
+<rect x="360" y="2300" width="0.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="2314" class="small">0.00</text>
+<text x="54" y="2342" class="small">custom_cuda_atomic</text>
+<rect x="360" y="2328" width="0.00" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="2342" class="small">0.00</text>
+<text x="54" y="2370" class="small">optimized_todo</text>
+<rect x="360" y="2356" width="0.00" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="2370" class="small">0.00</text>
+<text x="54" y="2398" class="small">optimized_tile2</text>
+<rect x="360" y="2384" width="0.00" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="2398" class="small">0.00</text>
+<text x="54" y="2426" class="small">optimized_tile4</text>
+<rect x="360" y="2412" width="0.00" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="2426" class="small">0.00</text>
+<text x="54" y="2454" class="small">optimized_tile8</text>
+<rect x="360" y="2440" width="0.00" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="2454" class="small">0.00</text>
+<text x="54" y="2482" class="small">optimized_2stage</text>
+<rect x="360" y="2468" width="0.00" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2482" class="small">0.00</text>
+<text x="54" y="2510" class="small">optimized_2stage_tile</text>
+<rect x="360" y="2496" width="0.00" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2510" class="small">0.00</text>
+<text x="24" y="2536" class="group">[11] Memory GB/s</text>
+<text x="54" y="2558" class="small">library_cub_device_reduce</text>
+<rect x="360" y="2544" width="680.00" height="18" fill="#1f77b4" opacity="0.84"/>
+<text x="1058" y="2558" class="small">1.00</text>
+<text x="54" y="2586" class="small">custom_cuda_atomic</text>
+<rect x="360" y="2572" width="3.11" height="18" fill="#8c564b" opacity="0.84"/>
+<text x="1058" y="2586" class="small">0.00</text>
+<text x="54" y="2614" class="small">optimized_todo</text>
+<rect x="360" y="2600" width="394.71" height="18" fill="#2ca02c" opacity="0.84"/>
+<text x="1058" y="2614" class="small">0.58</text>
+<text x="54" y="2642" class="small">optimized_tile2</text>
+<rect x="360" y="2628" width="527.60" height="18" fill="#9467bd" opacity="0.84"/>
+<text x="1058" y="2642" class="small">0.78</text>
+<text x="54" y="2670" class="small">optimized_tile4</text>
+<rect x="360" y="2656" width="596.53" height="18" fill="#17becf" opacity="0.84"/>
+<text x="1058" y="2670" class="small">0.88</text>
+<text x="54" y="2698" class="small">optimized_tile8</text>
+<rect x="360" y="2684" width="620.60" height="18" fill="#ff7f0e" opacity="0.84"/>
+<text x="1058" y="2698" class="small">0.91</text>
+<text x="54" y="2726" class="small">optimized_2stage</text>
+<rect x="360" y="2712" width="380.12" height="18" fill="#d62728" opacity="0.84"/>
+<text x="1058" y="2726" class="small">0.56</text>
+<text x="54" y="2754" class="small">optimized_2stage_tile</text>
+<rect x="360" y="2740" width="623.66" height="18" fill="#e377c2" opacity="0.84"/>
+<text x="1058" y="2754" class="small">0.92</text>
+</svg>
